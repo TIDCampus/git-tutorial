@@ -4,6 +4,3 @@ Academic
 --------------------------------
 *Universidad de Granada
 *University of Piraeus
-
-
-
