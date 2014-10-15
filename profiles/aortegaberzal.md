@@ -1,9 +1,10 @@
-Antonio Ortega Berzal
-=====================
+* Antonio Ortega Berzal
+=======================
 
-ACADEMIC
---------
+* ACADEMIC
+----------
 
-BEng Telecommunications Engineering 
-Universidad Europea de Madrid 
+* BEng Telecommunications Engineering 
+* Universidad Europea de Madrid 
+
 
