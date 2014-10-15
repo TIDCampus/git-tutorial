@@ -3,5 +3,5 @@ Alexandro Fortes Silva
 
 Academic
 ---------
-*Ingeniero Informatico. Universidad de Vigo
+*Ingeniero superior informatico. Universidad de Vigo
 *Telefonica I+D
