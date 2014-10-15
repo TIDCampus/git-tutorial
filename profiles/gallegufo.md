@@ -2,6 +2,6 @@ Juan Gallego Molina
 =======================================
 Academic
 ---------------------------------------
-*Universidad de Zaragoza
+*Unibersidad de Zaragoza
 *University College Cork
-*Universidad del País Vasco
+*Unibersidad del País Vasco
