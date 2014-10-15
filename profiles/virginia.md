@@ -2,5 +2,5 @@ Virginia Pascual Jimenez
 ========================
 Academic
 --------
-* Ingeniero de Telecominucacion (UPM-Madrid)
+* Ingeniero de Telecominucación (UPM-Madrid)
 * TID Campus 2014
