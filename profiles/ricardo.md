@@ -5,7 +5,7 @@ Academic
 --------
 
 *Ingeniería de Telecomunicaciones
-Universidad de Valladolid
+(Universidad de Valladolid)
 
 
 Languages
