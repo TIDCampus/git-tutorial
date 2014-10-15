@@ -2,5 +2,5 @@ Daniel Gomez Perez
 ================================
 Academic
 ---------------------------------
-*Universidad de Vigo
+*University of Vigo
 *North Carolina State University
