@@ -2,6 +2,6 @@ Ana Fernandez Martin
 ====================
 Academic
 --------
-* Universidad Politecnica de Madrid (UPM)
-* Delft 
+* Ingeniera de Telecomunicación por  Universidad Politecnica de Madrid (UPM)
+* Curso Athens en TU Delft 
 
