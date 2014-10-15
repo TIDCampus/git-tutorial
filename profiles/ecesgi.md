@@ -3,7 +3,12 @@ Sara Gómez Iglesias
 
 Academic
 --------
-* Universidad Politecnica Madrid
+* Universidad Politécnica Madrid
 * Ingeniero Telecomunicaciones
 * PMP
 
+Idiomas
+-------
+Español
+Inglés
+Portugues
