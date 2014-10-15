@@ -1,0 +1,7 @@
+JOSÉ ÁNGEL SILVA GALLARDO
+=========================
+ACADEMIC
+--------------------------------
+UNIVERSIDAD CARLOS III DE MADRID
+TELECOMMUNICATIONS ENGINEER
+
